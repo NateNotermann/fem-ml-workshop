@@ -41,7 +41,7 @@ export const handleFilePicker = (callback) => {
 };
 
 // Part 2
-// -----------
+// ----------- Uses Web Cam -----------
 
 export const startWebcam = (video) => {
   return navigator.mediaDevices
